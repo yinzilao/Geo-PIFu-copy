@@ -3,6 +3,7 @@ channels:
   - pytorch
   - anaconda
   - conda-forge
+  - fastchan
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -133,5 +134,4 @@ dependencies:
     - pyqtchart==5.12
     - pyqtwebengine==5.12.1
     - trimesh==3.6.43
-prefix: /home/tong/anaconda3/envs/geopifu
-
+prefix: /home/kasm-user/anaconda3/envs/geopifu
